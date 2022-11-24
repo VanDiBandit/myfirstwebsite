@@ -1,0 +1,160 @@
+body{
+    background-image: url('Images/animeCity.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+cursor: url(https://cur.cursors-4u.net/special/spe-1/spe4.cur), auto !important;
+
+}
+
+#mainheader{
+    border: ridge 20px;
+    border-color: #da2e17;
+    font-family:'Times New Roman', Times, serif;
+    color: silver;
+    background-color: black;
+    background:center;
+    background-color: black;
+    background-image:url('Images/ItachiEyes.gif');
+    background-repeat: repeat;
+    background-attachment: fixed;
+}
+button{
+    align-self: right;
+    border: none;
+  background-color: #da2e17;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+    opacity: .90;
+    cursor: url(https://cur.cursors-4u.net/smilies/smi-3/smi273.ani), url(https://cur.cursors-4u.net/smilies/smi-3/smi273.gif), auto !important;
+}
+audio{
+    opacity: .0;
+}
+#fun{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+    border: double;
+    border-radius: 10px;
+    border-color: #da2e17;
+    color: #da2e17;
+    background-color: black;
+
+    
+}
+#header1{
+    border-bottom: ridge;
+    border-color: #da2e17;
+    border-radius: 10px;
+    color: silver;
+    background-color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+    text-align: center;
+}
+#par1{
+    color: silver;
+    background-color: black;
+    border: double;
+    border-radius: 10px;
+    border-color: #da2e17;
+    text-align: center;
+
+}
+#header2{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    color: silver;
+    border-radius: 10px;
+    border-bottom: ridge;
+    border-color: #da2e17;
+    background-color: black;
+    font-size: 25px;
+}
+#par2{
+    color: silver;
+    background-color: black;
+    border: ridge 2px;
+    border-radius: 10px;
+    border-color: #da2e17;
+    text-align: center;
+}
+#dl1{
+    color: silver;
+    background-color: black;
+    border: double 3px;
+    border-radius: 10px;
+    border-color: #da2e17;
+    text-align: center;
+}
+#par3{
+    color: silver;
+    background-color: black;
+    border-left: solid;
+    border-bottom: ridge;
+    border-radius: 10px;
+    border-color: #da2e17;
+}
+li{
+    color: silver;
+    background-color: black;
+    border-radius: 5px;
+    border-bottom: inset;
+    border-left: outset;
+    border-color: #da2e17;
+}
+
+#dl2{
+    color: silver;
+    background-color: black;
+    border: double 3px;
+    border-radius: 10px;
+    border-color: #da2e17;
+}
+#par4{
+    color: silver;
+    background-color: black;
+    border-left: solid;
+    border-bottom: ridge;
+    border-radius: 10px;
+    border-color: #da2e17;
+}
+#dl3{
+    color: silver;
+    background-color: black;
+    border: double 3px;
+    border-radius: 10px;
+    border-color: #da2e17;
+}
+#par5{
+    color: silver;
+    background-color: black;
+    border-left: solid;
+    border-bottom: ridge;
+    border-radius: 10px;
+    border-color: #da2e17;
+}
+#header3{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    color: silver;
+    border-radius: 10px;
+    border-bottom: ridge;
+    border-color: #da2e17;
+    background-color: black;
+    font-size: 25px;
+}
+#par6{
+    color: silver;
+    background-color: black;
+    border: double;
+    border-radius: 10px;
+    border-color: #da2e17;
+}
+a{
+    color: black;
+}
